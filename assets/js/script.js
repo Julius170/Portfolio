@@ -34,7 +34,7 @@ function removeBlur() {
     mainPage.style.filter = `blur(${blur}px)`
 }
 
-setInterval(removeBlur, 7)
+setInterval(removeBlur, 1)
 
 var body = document.querySelector('body');
 var darkMode = document.getElementById('darkMode');

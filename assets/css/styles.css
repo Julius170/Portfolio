@@ -68,7 +68,7 @@ body {
 h1,
 h2,
 p {
-  margin: 0;
+  margin: auto;
 }
 
 ul {
@@ -129,7 +129,7 @@ img {
   left: 0;
   z-index: var(--z-fixed);
   background-color: var(--third-color);
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  box-shadow: 0 1px 4px rgba(50, 106, 65, 0.15)
 }
 
 /*===== NAV =====*/
@@ -330,7 +330,7 @@ img {
   padding: 0.5rem 1rem;
   margin-bottom: var(--mb-4);
   border-radius: 0.5rem;
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  box-shadow: 0px 4px 25px rgba(52, 161, 150, 0.15);
 }
 
 .skills__icon {
@@ -393,11 +393,11 @@ img {
     color: white;
 }
 .work__container a{
-    color: rgb(0, 0, 0);
+    color: rgb(118, 44, 44);
 }
 
 .work__img {
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  box-shadow: 0px 4px 25px rgba(11, 138, 79, 0.15);
   border-radius: 0.5rem;
   overflow: hidden;
 }
@@ -668,7 +668,7 @@ img {
 
 .dark-mode{
     
-   --forth-color: hsl(240, 13%, 10%);
-  --third-color: rgba(0, 0, 0, 0.96);
-  --second-color: rgba(255, 255, 255, 0.739); 
+  --forth-color: hsl(219, 63%, 24%);
+  --third-color: rgba(85, 28, 28, 0.96);
+  --second-color: rgba(55, 101, 122, 0.739); 
 }
