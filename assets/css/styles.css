@@ -397,7 +397,7 @@ img {
 }
 
 .work__img {
-  box-shadow: 0px 4px 25px rgba(11, 138, 79, 0.15);
+  box-shadow: 0px 4px 250px rgba(11, 138, 79, 0.15);
   border-radius: 0.5rem;
   overflow: hidden;
 }
@@ -408,6 +408,10 @@ img {
 
 .work__img img:hover {
   transform: scale(1.1);
+}
+
+.sizing {
+  border-width: 20px;
 }
 
 /* ===== CONTACT =====*/
