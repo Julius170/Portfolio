@@ -393,7 +393,7 @@ img {
     color: white;
 }
 .work__container a{
-    color: rgb(118, 44, 44);
+    color: rgb(1, 1, 6);
 }
 
 .work__img {
@@ -673,6 +673,6 @@ img {
 .dark-mode{
     
   --forth-color: hsl(219, 63%, 24%);
-  --third-color: rgba(85, 28, 28, 0.96);
+  --third-color: rgba(7, 10, 171, 0.96);
   --second-color: rgba(55, 101, 122, 0.739); 
 }
